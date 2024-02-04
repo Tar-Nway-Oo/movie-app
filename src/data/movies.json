@@ -1,0 +1,193 @@
+[
+   {
+      "id": 1,
+      "imageUrl": "./posters/barefoot.jpg",
+      "title": "Barefoot",
+      "year": 2014,
+      "genre": ["Romance", "Comedy"],
+      "rating": 6.5,
+      "preview": "The 'black sheep' son of a wealthy family meets a young psychiatric patient who's been raised in isolation her entire life. He takes the naive young woman home for his brother's wedding to convince his family that he's finally straightened out his life. She impresses the family with her genuine, if unstable charm. Along the way they fall into an improbable love.",
+      "trailer": "https://www.youtube.com/embed/Ppjr-hn1HR4",
+      "cast": ["Scott Speedman", "Evan Rachel Wood"]
+   },
+
+   {
+      "id": 2,
+      "imageUrl": "./posters/forever-my-girl.jpg",
+      "title": "Forever My Girl",
+      "year": 2018,
+      "genre": ["Romance", "Drama"],
+      "rating": 6.6,
+      "preview": "In Saint Augustine, Louisiana, Josie is left at the altar by her fiance Liam. Eight years later, Liam is a successful country singer. The day after a concert in New Orleans, Liam learns that Mason, one of his groomsmen from the wedding, has been killed in a car accident. Liam returns to St. Augustine and attends Mason's funeral. Although Liam attempts to be discreet, Josie recognizes him. After Mason's burial, Josie approaches Liam and punches him in the stomach. Liam stays with his father, Pastor Brian, although his father is bitter that Liam never kept in contact after becoming famous.",
+      "trailer": "https://www.youtube.com/embed/5iEOQn8UUHI",
+      "cast": ["Alex Roe", "Jessica Rothe"]
+   },
+
+   {
+      "id": 3,
+      "imageUrl": "./posters/malignant.jpg",
+      "title": "Malignant",
+      "year": 2021,
+      "genre": ["Horror", "Crime"],
+      "rating": 6.2,
+      "preview": "Twenty-seven long years after the brutal Simion Research Hospital incident, abused Madison wakes up in a hospital in present-day Seattle. But with numbing visions of murder getting in the way of a normal life, more and more, Madison's obscure past emerges, baffling both herself and the local detectives. Are these explicitly violent killings figments of Madison's troubled imagination? Either way, someone, or better yet, something, links the past to the present, demanding closure and blood. Is the bogeyman real?",
+      "trailer": "https://www.youtube.com/embed/Gczt0fhawDs",
+      "cast": ["Annabelle Wallis", "Maddie Hasson", "George Young"]
+   },
+
+   {
+      "id": 4,
+      "imageUrl": "./posters/the-girl-next-door.jpg",
+      "title": "The Girl Next Door",
+      "year": 2004,
+      "genre": ["Romance", "Comedy"],
+      "rating": 6.7,
+      "preview": "18-year-old Matthew Kidman is a straight 'A' over-achiever who feels that he has never really lived life to the full. That is, until he meets 'the girl next door'. Danielle moves in next door, and Matthew thinks he's found the girl of his dreams. All is going well, until Matthew's sex-mad friend Eli reveals that Danielle is actually a ex-porn star. Matthew doesn't know how to take the news or how to treat Danielle, and things go from bad to worse when Danielle's former producer Kelly appears to take her back.",
+      "trailer": "https://www.youtube.com/embed/F9p_zENS4EA",
+      "cast": ["Emile Hirsh", "Elisha Cuthbert"]
+   },
+
+   {
+      "id": 5,
+      "imageUrl": "./posters/the-silence-of-the-lambs.jpg",
+      "title": "The Silence Of The Lambs",
+      "year": 1991,
+      "genre": ["Crime", "Thriller"],
+      "rating": 8.6,
+      "preview": "F.B.I. trainee Clarice Starling (Jodie Foster) works hard to advance her career, while trying to hide or put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford (Scott Glenn). While she is still a trainee, Crawford asks her to question Dr. Hannibal Lecter (Sir Anthony Hopkins), a psychiatrist imprisoned, thus far, for eight years in maximum security isolation for being a serial killer who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as 'Buffalo Bill' (Ted Levine), who has so far killed five victims, all located in the eastern U.S., all young women, who are slightly overweight (especially around the hips), all who were drowned in natural bodies of water, and all who were stripped of large swaths of skin. She also figures that Crawford chose her, as a woman, to be able to trigger some emotional response from Lecter. After speaking to Lecter for the first time, she realizes that everything with him will be a psychological game, with her often having to read between the very cryptic lines he provides. She has to decide how much she will play along, as his request in return for talking to him is to expose herself emotionally to him. The case takes a more dire turn when a sixth victim is discovered, this one from who they are able to retrieve a key piece of evidence, if Lecter is being forthright as to its meaning. A potential seventh victim is high profile Catherine Martin (Brooke Smith), the daughter of Senator Ruth Martin (Diane Baker), which places greater scrutiny on the case as they search for a hopefully still alive Catherine. Who may factor into what happens is Dr. Frederick Chilton (Anthony Heald), the warden at the prison, an opportunist who sees the higher profile with Catherine, meaning a higher profile for himself if he can insert himself successfully into the proceedings.",
+      "trailer": "https://www.youtube.com/embed/6iB21hsprAQ",
+      "cast": ["Anthony Hopkins", "Jodie Foster"]
+   },
+
+   {
+      "id": 6,
+      "imageUrl": "./posters/it's-a-wonderful-life.jpg",
+      "title": "It's A Wonderful Life",
+      "year": 1947,
+      "genre": ["Drama", "Fantasy", "Comedy"],
+      "rating": 8.6,
+      "preview": "George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Mr. Potter finds the misplaced money and hides it from Uncle Billy. When the bank examiner discovers the shortage later that night, George realizes that he will be held responsible and sent to jail and the company will collapse, finally allowing Mr. Potter to take over the town. Thinking of his wife, Mary, their four children, and others he loves will be better off with him dead, he contemplates suicide. But the prayers of his loved ones result in his guardian angel named Clarence Odbody coming to Earth to help him, with the promise of earning his wings. He shows him what things would have been like if he had never been born.",
+      "trailer": "https://www.youtube.com/embed/iLR3gZrU2Xo",
+      "cast": ["James Stewart", "Donna Reed"]
+   },
+
+   {
+      "id": 7,
+      "imageUrl": "./posters/oppenheimer.jpg",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "genre": ["Biography", "Drama", "History"],
+      "rating": 8.4,
+      "preview": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bomb, thus helping end World War 2. We see his life from university days all the way to post-WW2, where his fame saw him embroiled in political machinations.",
+      "trailer": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "cast": ["Cillian Murphy", "Robert Downey Jr.", "Florence Pugh", "Emily Blunt"]
+   },
+
+   {
+      "id": 8,
+      "imageUrl": "./posters/the-greatest-showman.png",
+      "title": "The Greatest Showman",
+      "year": 2017,
+      "genre": ["Musical", "Drama", "Biography"],
+      "rating": 7.5,
+      "preview": "Orphaned, penniless, but ambitious and with a mind crammed with imagination and fresh ideas, the American entertainer, Phineas Taylor Barnum, will always be remembered as the man with the gift to blur the line between reality and fiction. Thirsty for innovation and hungry for success, the son of a tailor manages to open a wax museum; however, he soon shifts focus to the unique and the peculiar, introducing extraordinary, never-seen-before live acts on the circus stage. Now, some people call Barnum's rich collection of oddities, an outright freak show; but, when Phineas, obsessed for cheers and respectability, gambles everything on the opera singer, Jenny Lind, to appeal to a high-brow audience, he will lose sight of the most crucial aspect of his life: his family. Will Barnum, the greatest showman, risk it all to be accepted?",
+      "trailer": "https://www.youtube.com/embed/AXCTMGYUg9A",
+      "cast": ["Hugh Jackman", "Zac Efron", "Zendaya", "Michelle Williams", "Rebecca Ferguson"]
+   },
+
+   {
+      "id": 9,
+      "imageUrl": "./posters/totally-killer.jpg",
+      "title": "Totally Killer",
+      "year": 2023,
+      "genre": ["Horror", "Comedy"],
+      "rating": 6.5,
+      "preview": "When the infamous 'Sweet Sixteen Killer' returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+      "trailer": "https://www.youtube.com/embed/vNm3VPPKEQI",
+      "cast": ["Kiernan Shipka", "Olivia Holt"]
+   },
+
+   {
+      "id": 10,
+      "imageUrl": "./posters/the-holdovers.png",
+      "title": "The Holdovers",
+      "year": 2023,
+      "genre": ["Drama", "Comedy"],
+      "rating": 8.0,
+      "preview": "Nobody likes teacher Paul Hunham (Giamatti) -- not his students, not his fellow faculty, not the headmaster, who all find his pomposity and rigidity exasperating. With no family and nowhere to go over Christmas holiday in 1970, Paul remains at school to supervise students unable to journey home. After a few days, only one student holdover remains -- a trouble-making 18-year-old named Angus, a good student whose bad behavior always threatens to get him expelled. Joining Paul and Angus is head cook Mary (Randolph)-an African American woman who caters to sons of privilege and whose own son was recently lost in Vietnam. These three very different shipwrecked people form an unlikely Christmas family sharing comic misadventures during two very snowy weeks in New England. The real journey is how they help one another understand that they are not beholden to their past-they can choose their own futures.",
+      "trailer": "https://www.youtube.com/embed/AhKLpJmHhIg",
+      "cast": ["Paul Giamatti", "Dominic Sessa", "Da'Vine Joy Randolph"]
+   },
+
+   {
+      "id": 11,
+      "imageUrl": "./posters/through-my-window.jpg",
+      "title": "Through My Window",
+      "year": 2022,
+      "genre": ["Romance", "Drama"],
+      "rating": 5.5,
+      "preview": "Raquel is madly and irrevocably in love with Ares, her attractive and mysterious neighbour. The thing is, she has watched him from afar because, much to her dismay, they haven't exchanged a single word. But Raquel has a very clear mission: to make Ares fall in love with her. However, she is not an innocent, helpless girl and she is certainly not prepared to lose everything to achieve her goal, most importantly not herself.",
+      "trailer": "https://www.youtube.com/embed/_zxhK3Z-R0c",
+      "cast": ["Julio Peña", "Clara Galle"]
+   },
+
+   {
+      "id": 12,
+      "imageUrl": "./posters/interstellar.jpg",
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": ["Adventure", "Sci-Fi", "Drama"],
+      "rating": 8.7,
+      "preview": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+   },
+
+   {
+      "id": 13,
+      "imageUrl": "./posters/redeeming-love.jpg",
+      "title": "Redeeming Love",
+      "year": 2022,
+      "genre": ["Romance", "Drama"],
+      "rating": 6.7,
+      "preview": "Based on the bestselling novel by Francine Rivers, REDEEMING LOVE is a powerful story of relentless love and perseverance as a young couple's relationship clashes with the harsh realities of the California Gold Rush of 1850. It is a life-changing story of the power of unconditional and all-consuming love. Coming to theaters January 21, 2022, REDEEMING LOVE shows there is no brokenness that love can't heal.",
+      "trailer": "https://www.youtube.com/embed/_8RIlIOd_us",
+      "cast": ["Tom Lewis", "Abigail Cowen"]
+   },
+
+   {
+      "id": 14,
+      "imageUrl": "./posters/Nyad.jpg",
+      "title": "Nyad",
+      "year": 2023,
+      "genre": ["Biography", "Drama", "Sport"],
+      "rating": 7.1,
+      "preview": "A riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up marathon swimming in exchange for a prominent career as a sports journalist, at the age of 60, Diana becomes obsessed with completing an epic swim that always eluded her: the 110 mile trek from Cuba to Florida, often referred to as the 'Mount Everest' of swims. Determined to become the first person to finish the swim without a shark cage, Diana goes on a thrilling, four-year journey with her best friend and coach Bonnie Stoll and a dedicated sailing team.",
+      "trailer": "https://www.youtube.com/embed/3anCgVSQb3Q",
+      "cast": ["Annette Bening", "Jodie Foster"]
+   },
+
+   {
+      "id": 15,
+      "imageUrl": "./posters/infinity-war.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "rating": 8.4,
+      "preview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Don Cheadle", "Benedict Cumberbatch", "Tom Holland", "Chadwick Boseman", "Zoe Saldana", "Karen Gillan", "Tom Hiddleston", "Paul Bettany", "Elizabeth Olsen", "Anthony Mackie", "Sebastian Stan", "Idris Elba", "Danai Gurira"]
+   },
+
+   {
+      "id": 16,
+      "imageUrl": "./posters/walking-on-sunshine.jpg",
+      "title": "Walking On Sunshine",
+      "year": 2014,
+      "genre": ["Comedy", "Romance", "Drama", "Musical"],
+      "rating": 5.4,
+      "preview": "Set to the music of popular hit songs from the 1980s. A beautiful coastal village, present day Italy. After a whirlwind romance, Maddie is preparing to marry gorgeous Italian Raf, and has invited her sister Taylor to the wedding. Unbeknownst to Maddie, however, Raf is Taylor's ex-holiday flame, and the love of her life.",
+      "trailer": "https://www.youtube.com/embed/fRjaHR9cLtg",
+      "cast": ["Hannah Arterton", "Annabel Scholey", "Giulio Berruti"]
+   }
+]

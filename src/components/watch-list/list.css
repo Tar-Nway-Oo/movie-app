@@ -1,0 +1,43 @@
+.list-container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 5.5em;
+}
+
+.list {
+   padding: .3em .5em;
+   margin: 1em .5em;
+   border-radius: .5em;
+   box-shadow: 0 1.5px 7px 0 hsl(0, 0%, 50%);
+   display: flex;
+   align-items: center;
+   gap: 2em;
+}
+
+.list_img {
+   height: 100px;
+   object-fit: cover;
+}
+
+.list_title {
+   font-size: 1.2rem;
+   margin-right: auto;
+   line-height: 1.2em;
+}
+
+.remove-icon {
+   width: 25px;
+   cursor: pointer;
+   transition: scale 100ms ease-in-out;
+}
+
+.remove-icon:hover {
+   scale: 1.1;
+}
+
+@media (max-width: 380px) {
+   .list-container {
+      margin-top: 7em;
+   }
+}
